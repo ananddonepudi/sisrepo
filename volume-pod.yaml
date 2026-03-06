@@ -4,7 +4,7 @@ metadata:
   name: nginxpvc
   label:
    app: myapp
-   env: dev
+   env: test
 spec:
   containers:
    - name: nginx
