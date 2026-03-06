@@ -6,7 +6,7 @@ metadata:
   namespace: default
 
   labels:
-   type: back-end
+   type: front-end
 spec:
   containers:
   - image: nginx:1.14.2
